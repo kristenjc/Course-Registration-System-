@@ -1,5 +1,3 @@
-package CRS_System;
-
 public class User extends Course {
 	private static final long serialVersionUID = 1L;
 	private String username;

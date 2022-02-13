@@ -1,5 +1,3 @@
-package CRS_System;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

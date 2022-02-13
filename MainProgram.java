@@ -1,4 +1,3 @@
-package CRS_System;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
